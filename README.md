@@ -1,7 +1,7 @@
 ### Olá! Eu sou Bruno Rafael 🤗
 
 - 🖥️ Hoje trabalho com front-end
-- 🌱 Buscando evoluir a stack Angular
+- 🌱 Buscando evoluir em Flutter
 - 🎯 Conquistar as metas Profissionais e pessoais
 - 📫 brunorafaelds@outlook.com
 - 😄 Pronouns: Ele/Dele
