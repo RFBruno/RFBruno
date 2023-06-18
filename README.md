@@ -1,40 +1,27 @@
-### Olá! Eu sou Bruno Rafael 🤗
+[![MasterHead](https://lh3.googleusercontent.com/pw/AJFCJaUdxo5zJEHN7hHsh51maPwapZfn1kGBXyBQ1dBKz8PQ-Z7s6gFz1s77rfh4HFQEoFRlOAM3YvU3MaftMrOc2JWCBC4jhrLBbpz_TIFyYbQz4BKBxGYhFQjzVfRsSsiUGB6uLhFghOR185O9rR3g0OJutJYyMnPeerA0J7Zdy_7eiL6CtqAB37luVaFZAjJkQN2Mf_NymZBVD-pQhE1P5aWB5x22Z4tf3DHPmz6vDym7Ku4n-FbYCUa4hN8OI5YhCqUDyl5cc4-nqAsCh79UWQ8C0gTlGyAsthcF1mxUUuzYVCSr8X-ZS5z1LaI5elPgEGifRQ2o55Fdved9V5SxaOD2PQpBcpkn04Na8wfoROJpzKHS4HbK7YFzIsOTr5_CqhE2NxY_6GK8yx5tZsrNEyxvOvaokgyxmYgpefroirMRcMtfe1Z9N-k9MRb6lIWFq4A5se2dssu0mSeg29tc3X7JtZ6Rge1PTk8kB8IXlAIFf96f9HcHXqLFAs4FOmlLiJ9fsy_fIxS5BjelVZQYTNp04JgfBvGA94vOvpZNHR8UjmM_HJ1cdAZ3O4nJBjnYjoB04CVgkpqTwnhBeOW-yj6ImR7m0bIEjnuPQawR4KSOVYDK5JIeizw5RaTYsoF0LencsOLmrIaDmqxk692QJXyM3fcOiGatfpcc-29w_G6zrZZEz46mGsCyaU-WPX-MiQQkSAZnQBTGMC_xvR_amZe0knOPqoXM9c83BT3yTSV-_SxL8FQvIoELpBY5ulm5z0etX0GXP2UQZEodHEzCqLRQ9n1W4W56IVbWisCnbEPlEc2hPko3LuGaURPxJd2e95KLARWOiFXXm2RUMIzwMe3lA2Dwk6hbG2bCZt7KVlkmSfVD89BWNTsnXwIpHm9qozv4jL2C_-xtI2ajS8i1W6w_ci1SYbKWxokWM5een00EalR3QrphwTBAKb0=w1439-h457-s-no?authuser=0)](https://www.linkedin.com/in/brunorafaeldasilva/)
 
-- 🖥️ Hoje trabalho com front-end
-- 🌱 Buscando evoluir em Flutter
-- 🎯 Conquistar as metas Profissionais e pessoais
-- 📫 brunorafaelds@outlook.com
-- 😄 Pronouns: Ele/Dele
-- 🎧🎬🏋️‍♂️📉📚 Free Time
 
-<div align="center">
-  <a href="https://github.com/RFBruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RFBruno&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFBruno&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
-  <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
-  
-</div>
-  
-   ##
- 
-<div> 
-  <a href="https://www.instagram.com/brunorafals/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-rafael-da-silva-015a81136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/RFBruno/RFBruno/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<h1 align="center">Hi 👋, I'm Bruno Rafael</h1>
+<h3 align="center">Enjoy the process</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rfbruno&label=Profile%20views&color=0e75b6&style=flat" alt="rfbruno" /> </p>
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/pw/AJFCJaVbc0QnD8lui3UoxTszBntjC8kAG8MwEZqJrAFkdUMfg0kqgao9JOQD6Tad1nLJNATncRVeVZdl0WPrb8QujJA1Trd_JFakwicBmIyTZFFQeaL_j5FfIQk-2o8Ch2ErPlASDSi2ZCMSJRKGJfpAGQ7eTSYxmd46-Sh5nIUKAqgwRJ4LxXhsdCAcj8JwttId2xf_wY_cTj6m1QrV_1BRWjs2QQBcv_nmOI9ZBEsWrhpqqNKaEhRoEAuRvZ-XCFWBIUMydbg3doQMX5zQyKk4bWw_U7ns6Cd0Y2mz61QBxUz5-qskjZWjzY_Kf56I48p6NG0NAmEN-DELmFf6fzAQpZPH5zW0yoYPbaoAMTer9FTVPhL-fT7XlabB33pIbTG2Gn1tXBG6EMus_O0p1mWDVkVndSERDs7seY42uIBi6SKvbUrrfIMjSBT4EGKaw6gAW0hWxyUnwZWhsYAfSEAASQUQ1468IrSh0pfzuP17WI2360hg7tdb6MIbtve3GTHJTw8ihPXnUMqjNiUT4CE5HSPhOifkZ7EDh5vTKlYaDeCBS2NViBc4mIwaDNZVitASs78hxbb1UtH9wfGKl4OXVb6lbcA2WW8Nbraq5zfo2swRfto2GyZYPYmN7nJ6xCzjGr1hmoJgqbB2yhOZMOJEdM8fLW4MirRoc3UCss8K2z4-VvhbkZ6TWirlmSLakSgrj3qH6XrR271cUrNN2qkGK0mvEtitw8UF4Ny6sMeR4OsauVjf7TBl7xPW6a2jQlCT-LnJRIL67kmU73OLeHhCJpGzgSaHmydn0lli5i8t5Fv1-5Y1qv8jvk9Y3DMveOUHTSLHMb5Kb12fG87FNGuBd6kOsZ5c0hxXciF1_Lz6_AIr6EPqK5OqtsGotkEByQzMmaOgx4Hdjbi0g0XrHpQZd4nLicOijcoQkXsyEsrC3tXSRgvSqylUf3F0WZ4=w800-h600-s-no?authuser=0">
 
+- 🌱 I’m currently learning **Flutter**
+
+- 💬 Ask me about **Flutter , Angular**
+
+- 📫 How to reach me **brunorafaelds@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/brunorafaeldasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunorafaeldasilva" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfbruno&show_icons=true&locale=en&layout=compact" alt="rfbruno" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rfbruno&show_icons=true&locale=en" alt="rfbruno" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rfbruno&" alt="rfbruno" /></p>
