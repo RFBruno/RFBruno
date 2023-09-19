@@ -1,8 +1,12 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-a7442.appspot.com/o/profile%20github%20images%2Fgithubcapa.png?alt=media&token=091ec4e2-aa66-4b89-a768-6c1a026a262e)](https://www.linkedin.com/in/brunorafaeldasilva/)
 
 
-<h1 align="center">Hi 👋, I'm Bruno Rafael</h1>
-<h3 align="center">Enjoy the process</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28B5F6&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,+I%27m+Bruno+Rafael;I%27m+27+years+old;I+from+Brasil,+Fortaleza-CE;I+study+web/mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h2 align="center"></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28B5F6&size=26&center=true&vCenter=true&pause=3000&width=1000&lines=Enjoy+the+process;Make+mistakes+until+you+get+it+right;Time+is+valuable;Do+your+best+to+get+the+best!+😄)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfbruno&label=Profile%20views&color=0e75b6&style=flat" alt="rfbruno" /> </p>
 <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/portfolio-a7442.appspot.com/o/profile%20github%20images%2Fgithub.gif?alt=media&token=9b6fe65a-b13c-4032-bb64-e54c437b3ff5">
 
