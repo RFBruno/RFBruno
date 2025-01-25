@@ -1,4 +1,5 @@
-[![Design sem nome (5)](https://github.com/user-attachments/assets/bc6d2815-4f6a-49f9-b997-b6843deac6bb)](https://www.linkedin.com/in/brunorafaeldasilva/)
+[![capa](https://github.com/user-attachments/assets/50920a09-be0a-4708-8e5b-a77f1f7d13ad)](https://www.linkedin.com/in/brunorafaeldasilva/)
+
 
 
 
