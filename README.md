@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/portfolio-a7442.appspot.com/o/profile%20github%20images%2Fgithubcapa.png?alt=media&token=091ec4e2-aa66-4b89-a768-6c1a026a262e)](https://www.linkedin.com/in/brunorafaeldasilva/)
+[![Design sem nome (5)](https://github.com/user-attachments/assets/bc6d2815-4f6a-49f9-b997-b6843deac6bb)](https://www.linkedin.com/in/brunorafaeldasilva/)
 
 
 
@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter , Angular**
+
 
 - 📫 How to reach me **brunorafaelds@outlook.com**
 
