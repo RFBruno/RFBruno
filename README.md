@@ -11,8 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rfbruno&label=Profile%20views&color=0e75b6&style=flat" alt="rfbruno" /> </p>
 <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/portfolio-a7442.appspot.com/o/profile%20github%20images%2Fgithub.gif?alt=media&token=9b6fe65a-b13c-4032-bb64-e54c437b3ff5">
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Flutter , Angular**
 
 
