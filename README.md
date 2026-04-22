@@ -3,7 +3,7 @@
 Full Stack Developer focused on building scalable SaaS products.
 
 ## 🚀 What I do
-- Build full stack applications (Angular, React, Next.js, NestJS)
+- Build full stack applications (Angular, Flutter, Next.js, NestJS)
 - Deploy production systems (Vercel, Railway, PostgreSQL)
 - Create SaaS products used by real clients
 
@@ -11,6 +11,6 @@ Full Stack Developer focused on building scalable SaaS products.
 👉 AgendaNexus — https://agendanexus.com.br
 
 ## 💻 Tech Stack
-Angular • React • Next.js • NestJS • PostgreSQL • Redis
+Angular • Flutter • Next.js • NestJS • PostgreSQL • Redis
 
 ## 🌍 Open to remote opportunities
